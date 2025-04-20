@@ -30,8 +30,7 @@ chmod +x sysinfo.sh
 chmod +x cleanup.sh
 ./sysinfo.sh
 ./cleanup.sh
-
----
+```
 
 **Connect with me on LinkedIn**  
 [linkedin.com/in/carlos-semeao-04938a357](https://linkedin.com/in/carlos-semeao-04938a357)
